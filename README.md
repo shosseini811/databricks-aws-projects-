@@ -1,1 +1,6 @@
-# databricks-aws-projects-
+In this article, we delve into the process of building a Logistic Regression model using Databricks' AutoML capabilities on AWS. Starting with an introduction to automated machine learning, we highlight its advantages and how it accelerates the machine learning workflow. We further discuss how Databricks' integration with AWS enhances this process, providing a seamless, scalable, and efficient platform for machine learning tasks.
+
+The tutorial focuses on a diabetes prediction task where the Logistic Regression model is trained, validated, and tested. We explain each step in detail, from data loading and preprocessing, feature selection, model training, and evaluation, to model registration in the MLflow Model Registry for future use. The article also touches upon the critical aspect of model interpretability using SHAP values, explaining how they help in understanding feature importance.
+
+The step-by-step guide is intended to provide a comprehensive understanding of using Databricks AutoML on AWS for machine learning tasks, particularly Logistic Regression. It serves as a handy reference for Machine Learning Engineers and Data Scientists looking to harness the power of cloud-based AutoML platforms in their projects.
+You can access full article [here] (https://medium.com/@s.sadathosseini/automating-machine-learning-with-databricks-and-aws-a-comprehensive-guide-to-training-logistic-75ba389b5612).
